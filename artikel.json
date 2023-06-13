@@ -1,0 +1,8 @@
+[
+  {"jenis":"PBB", "kepanjangan":"Pajak Bumi dan Bangunan", "image":"pbbb" },
+  {"jenis":"PPH", "kepanjangan":"Pajak Penghasilan", "image":"penghasilan" },
+  {"jenis":"PPN", "kepanjangan":"Pajak Pertambahan Nilai", "image":"ppn" },
+  {"jenis":"Bea Materai", "kepanjangan":"Pajak Bea Materai", "image":"bm" },
+  {"jenis":"PPnBM", "kepanjangan":"Pajak Penjualan atas Barang Mewah", "image":"ppnbm" },
+  {"jenis":"PAD", "kepanjangan":"Pajak Daerah", "image":"pad" }
+]
